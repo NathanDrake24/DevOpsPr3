@@ -1,5 +1,5 @@
 # DevOpsPr3
-## Вариант №3
+## Вариант №6
 
 1. Создаем рабочую папку
 <img width="321" height="21" alt="image" src="https://github.com/user-attachments/assets/b70bb8c8-0cac-4194-b1b0-1e1876a739e0" />
