@@ -41,12 +41,19 @@ fi
 6. Проверяем, что файл в папке
 <img width="412" height="50" alt="image" src="https://github.com/user-attachments/assets/782a1457-9c08-4f22-954e-4ff5a49e5adb" />
 
-1. Делаем скрипт исполняемым
+7. Делаем скрипт исполняемым
 
 <img width="438" height="20" alt="image" src="https://github.com/user-attachments/assets/4990476f-2728-4b0f-907a-520c0d3c0ef5" />
 
-1. Запускаем скрипт
+8. Запускаем скрипт
 
 <img width="960" height="193" alt="image" src="https://github.com/user-attachments/assets/eb004b2a-7ccd-40f1-a6fc-364532f0bcac" />
+
+9. Проверяем, что файл сохранился
+<img width="654" height="50" alt="image" src="https://github.com/user-attachments/assets/b16e7491-f10f-433e-ad2f-358735e9bf60" />
+
+10. Если была ошибка — смотрим лог
+<img width="467" height="36" alt="image" src="https://github.com/user-attachments/assets/4f0ec8b9-bba8-4cc2-9818-3914e11ffeec" />
+
 
 
