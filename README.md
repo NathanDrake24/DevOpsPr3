@@ -11,7 +11,7 @@
 <img width="409" height="17" alt="image" src="https://github.com/user-attachments/assets/6d804c34-4643-4029-8093-21098437b96a" />
 
 4. Вставляем в него скрипт
-   ```bash
+   ```
    
      GNU nano 7.2                                           download.sh                                                    #!/bin/bash
 URL="https://jsonplaceholder.typicode.com/posts/1"
