@@ -12,6 +12,7 @@
 
 4. Вставляем в него скрипт
    ```bash
+   
      GNU nano 7.2                                           download.sh                                                    #!/bin/bash
 URL="https://jsonplaceholder.typicode.com/posts/1"
 OUTPUT_DIR="./downloads"
@@ -32,6 +33,7 @@ else
     rm -f "$FILE_PATH"
     exit 1
 fi
+
 ``` 
 
 6. 
