@@ -33,5 +33,6 @@ else
     rm -f "$FILE_PATH"
     exit 1
 fi
+```
 
 6. 
