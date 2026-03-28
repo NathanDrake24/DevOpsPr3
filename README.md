@@ -11,9 +11,9 @@
 <img width="409" height="17" alt="image" src="https://github.com/user-attachments/assets/6d804c34-4643-4029-8093-21098437b96a" />
 
 4. Вставляем в него скрипт
-   ```
-   
-     GNU nano 7.2                                           download.sh                                                    #!/bin/bash
+
+```bash
+#!/bin/bash
 URL="https://jsonplaceholder.typicode.com/posts/1"
 OUTPUT_DIR="./downloads"
 LOG_FILE="download_errors.log"
@@ -33,7 +33,5 @@ else
     rm -f "$FILE_PATH"
     exit 1
 fi
-
-``` 
 
 6. 
