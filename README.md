@@ -35,4 +35,18 @@ else
 fi
 ```
 
-6. 
+<img width="619" height="327" alt="image" src="https://github.com/user-attachments/assets/0f131457-e282-4b4d-a447-288c523412ca" />
+
+
+6. Проверяем, что файл в папке
+<img width="412" height="50" alt="image" src="https://github.com/user-attachments/assets/782a1457-9c08-4f22-954e-4ff5a49e5adb" />
+
+1. Делаем скрипт исполняемым
+
+<img width="438" height="20" alt="image" src="https://github.com/user-attachments/assets/4990476f-2728-4b0f-907a-520c0d3c0ef5" />
+
+1. Запускаем скрипт
+
+<img width="960" height="193" alt="image" src="https://github.com/user-attachments/assets/eb004b2a-7ccd-40f1-a6fc-364532f0bcac" />
+
+
